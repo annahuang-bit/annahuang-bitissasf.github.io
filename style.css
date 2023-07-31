@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.gray {
+    color: #808588;
+}
+
+.red {
+    color: #BA110C;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
